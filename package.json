@@ -1,4 +1,7 @@
-{  "scripts": {
+{
+    "scripts": {
+
+    
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
@@ -14,3 +17,4 @@
     "autoprefixer": "^10.4.14"
   }
 }
+
